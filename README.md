@@ -1,1 +1,3 @@
-# Seq2Seq2GraspAndLocalization
+Three clutter environments are reported in the json file.
+
+More details about the code will be released soon.... 
